@@ -24,7 +24,7 @@ const App = () => {
         <Tech />
         <Works />
         <Contact />
-        <StarsCanvas />
+        {/* <StarsCanvas /> removed 3rd ball effect */}
       </div>
     </BrowserRouter>
   );
